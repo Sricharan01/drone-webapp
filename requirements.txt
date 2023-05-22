@@ -2,13 +2,12 @@
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
-matplotlib>=3.2.2
+
 
 numpy
-opencv-contrib-python
 opencv-python-headless
 
-
+matplotlib>=3.2.2
 Pillow>=7.1.2
 PyYAML>=5.3.1
 requests>=2.23.0
