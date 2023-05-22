@@ -4,8 +4,8 @@
 # Base ----------------------------------------
 
 
-numpy
-opencv-python-headless
+numpy>=1.24.3
+opencv-python-headless>=4.7.0.72
 
 matplotlib>=3.2.2
 Pillow>=7.1.2
