@@ -5,7 +5,7 @@
 
 
 numpy
-opencv-python
+opencv-python-headless
 
 matplotlib>=3.2.2
 Pillow>=7.1.2
