@@ -2,9 +2,8 @@
 # Usage: pip install -r requirements.txt
 
 # Base ----------------------------------------
-opencv-python-headless==4.5.4.60
-opencv-contrib-python
-numpy==1.19.3
+opencv-python-headless
+numpy
 streamlit-webrtc 
 
 matplotlib>=3.2.2
