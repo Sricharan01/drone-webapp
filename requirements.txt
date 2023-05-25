@@ -10,11 +10,14 @@
 
 
 matplotlib>=3.2.2
-Pillow>=7.1.2
-PyYAML>=5.3.1
+
 
 opencv-python-headless==4.5.4.60
+opencv-contrib-python
 numpy==1.19.3
+
+Pillow>=7.1.2
+PyYAML>=5.3.1
 requests>=2.23.0
 scipy>=1.4.1  # Google Colab version
 torch>=1.7.0
