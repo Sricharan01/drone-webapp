@@ -4,7 +4,7 @@
 # Base ----------------------------------------
 opencv-python-headless
 numpy
-streamlit-webrtc 
+ 
 
 matplotlib>=3.2.2
 Pillow>=7.1.2
